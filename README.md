@@ -9,3 +9,12 @@ This repository tracks my daily journey learning Data Science, starting with the
 | 02 | Plotting Pie graph and Violin plot | Learning different graphs and their parameters | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/titanic_practice_2.ipynb)|
 | 03 | Relation between age and survival rate & Combination of Sex, Class and Survival | Learning Facet Graph and details of pie graph and improved markdown also | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/titanic_practice_3.ipynb)
 
+** Up until now I was making plots of already clear dataset of titanic **
+** From now I will work on the raw data of titanic **
+* First I will clear the data
+* Then I will plot it
+* And then I will use the machine learning topics which I have learnt by then
+  
+| Day | Topic | Key Skills | Notebook |
+|:---|:---|:---|:---|
+| 04 | Data Cleaning | Using of .loc function clearly | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/Basic_Titanic_1.ipynb) |
