@@ -18,3 +18,4 @@ This repository tracks my daily journey learning Data Science, starting with the
 | Day | Topic | Key Skills | Notebook |
 |:---|:---|:---|:---|
 | 04 | Data Cleaning | Using of .loc function clearly | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/Basic_Titanic_1.ipynb) |
+| 05 | Making Bachelors Section With the help of Mister etc. ,Making Fare Section, Plotting | Understanding .str extendor for using string functioin, Understanding qcut function and repractising the plotting function | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/Basic_Titanic_2.ipynb) |
