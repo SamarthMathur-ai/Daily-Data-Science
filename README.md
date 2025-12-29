@@ -19,3 +19,5 @@ This repository tracks my daily journey learning Data Science, starting with the
 |:---|:---|:---|:---|
 | 04 | Data Cleaning | Using of .loc function clearly | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/Basic_Titanic_1.ipynb) |
 | 05 | Making Bachelors Section With the help of Mister etc. ,Making Fare Section, Plotting | Understanding .str extendor for using string functioin, Understanding qcut function and repractising the plotting function | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/Basic_Titanic_2.ipynb) |
+| 06 | Finding relation between class and survived, class and fare | Understanding Box plot and revising count plot | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/Basic_Titanic_3.ipynb) |
+
