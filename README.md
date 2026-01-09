@@ -34,3 +34,4 @@ This repository tracks my daily journey learning Data Science, starting with the
 | 09 | Data Cleaning | How to see if all the rows of a column are null or not, how to read all the rows of a column, how to plot a bubble chart | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/387aa065fae79fa86353c7f69d247546bf827f07/realstate1.ipynb) |
 | 10 | How to train large dataset | Learned how to train large dataset and started cleaning the null values as per the first step | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/realstate2.ipynb) |
 | 11 | Cleaning the basement data and **transforming** it | Handling Null | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/realstate3.ipynb) |
+| 12 | Making the final basement column, Overall quality and year column | Learning how to find the best feature and how to make one | [Link](https://github.com/SamarthMathur-ai/Daily-Data-Science/blob/main/realstate4.ipynb) |
